@@ -16,7 +16,7 @@ Hi there! I'm **Haris**, a passionate **MERN Stack Developer** who loves coding,
 <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50" /> I'm currently working on **MERN stack projects**  
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" /> Learning **advanced React and cloud deployment**  
 <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="50" /> Ask me about **web development and programming tips**  
-<img src="https://media.giphy.com/media/U7pS5i6Vfj5EdD8BE9/giphy.gif" width="50" /> Fun fact: **Debugging is my superpower!** 🦸‍♂️  
+<img src="https://media.giphy.com/media/U7pS5i6Vfj5EdD8BE9/giphy.gif" width="70" /> Fun fact: **Debugging is my superpower!** 🦸‍♂️  
 
 </div>
 
@@ -66,7 +66,6 @@ Hi there! I'm **Haris**, a passionate **MERN Stack Developer** who loves coding,
 ## 🌐 **Let's Connect**
 
 <a href="https://www.linkedin.com/in/haris936hk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:hariskhan936.hk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio (TBA)-1A1A1A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 
 ---
