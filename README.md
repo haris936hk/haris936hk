@@ -41,19 +41,22 @@
 ## ⚡ Skills & Expertise  
 
 **Front-End**  
-`React` · `Shopify Hydrogen` · `Next.js` · `Redux` · `Tailwind CSS` · `Bootstrap` · `Figma`  
+`React` · `Shopify Hydrogen` · `Next.js` · `Redux` · `Tailwind CSS` · `Bootstrap` · `Material-UI` · `Figma`  
 
 **Back-End**  
-`Node.js` · `Express.js` · `GraphQL` · `REST APIs`  
+`Node.js` · `Express.js` · `GraphQL` · `REST APIs` · `PHP` · `Laravel`  
 
 **Databases**  
-`MongoDB` · `MySQL`  
+`MongoDB` · `MySQL` · `PostgreSQL` · `Firebase`  
 
 **Programming**  
-`JavaScript (ES6+)` · `TypeScript` · `Python` · `C` · `C++`  
+`JavaScript (ES6+)` · `TypeScript` · `Python` · `C` · `C++` · `PHP`  
 
-**Other**  
-`Git` · `GitHub` · `CI/CD` · `Cloud Deployment` · `Performance Auditing` · `SEO Optimization`  
+**Cloud & DevOps**  
+`AWS` · `Vercel` · `Netlify` · `Heroku` · `Docker` · `CI/CD`  
+
+**Other Tools**  
+`Git` · `GitHub` · `Jest` · `Postman` · `SEO Optimization` · `Performance Auditing`  
 
 </div>
 
@@ -61,9 +64,9 @@
 
 <div align="center">
 
-## 🚀 Tech Stack Icons  
+## 🚀 Tech Stack  
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,graphql,shopify,tailwind,bootstrap,figma,git,github,python,cpp" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,postgres,firebase,graphql,php,laravel,shopify,tailwind,bootstrap,materialui,figma,git,github,aws,vercel,netlify,heroku,docker,postman,python,cpp" alt="Tech Stack" />
 
 </div>
 
@@ -75,9 +78,6 @@
 
 ![Haris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haris936hk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haris936hk&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=haris936hk&theme=tokyonight&hide_border=true)  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=haris936hk&theme=tokyonight&margin-w=10&no-frame=true&row=1)
 
 </div>
 
@@ -88,8 +88,8 @@
 ## 🌐 Connect With Me  
 
 <a href="https://www.linkedin.com/in/haris936hk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:hariskhan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://hariskhan-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:hariskhan936.hk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
