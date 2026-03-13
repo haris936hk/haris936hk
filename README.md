@@ -29,7 +29,7 @@
 name       : Haris Khan
 title      : Full-Stack & AI Developer
 location   : Islamabad, Pakistan
-education  : BS Software Engineering — Riphah International University (2021–Present)
+education  : BS Software Engineering — Riphah International University 
 
 specializations:
   - Electron Desktop ERPs (Offline-first, Bilingual EN/Urdu RTL)
